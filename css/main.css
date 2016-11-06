@@ -24,6 +24,12 @@ h1 {
     font-size: 10vw;
     font-family:'Abel', 'Arial', 'Sans-Serif';
 }
+
+#navigation {
+    position:absolute;
+    bottom:0;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
