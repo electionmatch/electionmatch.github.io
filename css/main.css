@@ -28,8 +28,6 @@ h1 {
 #footer {
     position : absolute;
     bottom : 0;
-    height : 40px;
-    margin-top : 40px;
     left: 50%;
     margin: 0 -50px;
 }
