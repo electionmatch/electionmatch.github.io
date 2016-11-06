@@ -25,9 +25,11 @@ h1 {
     font-family:'Abel', 'Arial', 'Sans-Serif';
 }
 
-#navigation {
-    position:absolute;
-    bottom:0;
+#footer {
+    position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
 }
 
 p {
